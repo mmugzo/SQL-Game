@@ -2,4 +2,5 @@
     a sql learning platform
 -----
 # Tech Stack
- FastAPi
+ v1 FastAPI 
+ v2 Go/Gin
